@@ -1,11 +1,11 @@
-# CSV-Import-Sort
+# CSV-Sortable-Dashboard
 This simple nodejs application takes data from uploaded csv file, and show it as a sortable dashboard on a webpage.
 
-### Else you need nodejs installed locally and run the following
+### How to install
 ```
 $ npm install
 ```
-### For development environment
+### Run
 ```
 $ npm start
 ```
