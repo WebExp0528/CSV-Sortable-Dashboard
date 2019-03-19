@@ -1,5 +1,5 @@
 # CSV-Sortable-Dashboard
-This simple nodejs application takes data from uploaded csv file, and show it as a sortable dashboard on a webpage.
+This simple React application takes data from uploaded csv file, and show it as a sortable dashboard on a webpage.
 
 ### How to install
 ```
