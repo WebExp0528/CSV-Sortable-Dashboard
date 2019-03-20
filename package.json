@@ -1,5 +1,5 @@
 {
-  "name": "datasort",
+  "name": "CSV Sortable Dashboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
